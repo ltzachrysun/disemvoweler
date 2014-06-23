@@ -10,6 +10,14 @@ namespace disemvoweler
     {
         static void Main(string[] args)
         {
+
+            //nice
+
+            Console.ReadKey();
+
         }
     }
+
+
+
 }
